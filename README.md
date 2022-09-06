@@ -1,4 +1,4 @@
-### Howdy 👋
+### Howdy! 👋
 ---
 I'm a BSc Computer Science alumni from Nottingham Trent University, and a Junior Java Developer for Sparta Global!
 I've also worked as a Machine Learning Research Assistant at NTU and a Coding Instructor at Code First: Girls!
