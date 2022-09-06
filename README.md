@@ -1,8 +1,9 @@
 ### Howdy 👋
 ---
-I'm an alumni from Nottingham Trent University and looking to get into a software development role!
+I'm a BSc Computer Science alumni from Nottingham Trent University, and a Junior Java Developer for Sparta Global!
+I've also worked as a Machine Learning Research Assistant at NTU and a Coding Instructor at Code First: Girls!
 
-- 🔭 I’m currently working asa junior Java Developer
+- 🔭 I’m currently working as a junior Java Developer
 - ⚡ My current side project is a bookshelf tracking web application
 - 🌱 I’m currently learning VR application development
 - 📫 How to reach me: [**Linkedin**](https://www.https://www.linkedin.com/in/hassaan-naveed-87345a19b//)
