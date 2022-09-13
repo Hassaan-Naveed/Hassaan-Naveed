@@ -6,7 +6,7 @@ I've also worked as a Machine Learning Research Assistant at NTU and a Coding In
 - 🔭 I’m currently working as a junior Java Developer
 - ⚡ My current side project is a bookshelf tracking web application
 - 🌱 I’m currently learning VR application development
-- 📫 How to reach me: [**Linkedin**](https://www.https://www.linkedin.com/in/hassaan-naveed-87345a19b//)
+- 📫 How to reach me: [**Linkedin**](https://www.linkedin.com/in/hassaan-naveed-87345a19b/)
 - 😄 Pronouns: They/them
 
 ---
