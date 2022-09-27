@@ -1,6 +1,6 @@
 ### Howdy! 👋
 ---
-I'm a BSc Computer Science alumni from Nottingham Trent University, and an upcoming Junior Developer for the NHS!
+I'm a BSc Computer Science alumni from Nottingham Trent University, and a Junior Developer for NHS Nottingham and Nottinghamshire!
 I've also worked as a Machine Learning Research Assistant at NTU and a Coding Instructor at Code First: Girls!
 
 - 🔭 I’m currently working as a Junior Developer
