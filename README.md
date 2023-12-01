@@ -7,7 +7,6 @@ I've also worked as a Machine Learning Research Assistant at NTU and a Coding In
 - ⚡ My current side project is a bookshelf tracking web application
 - 🌱 I’m currently learning Java development
 - 📫 How to reach me: [**Linkedin**](https://www.linkedin.com/in/hassaan-naveed-87345a19b/)
-- 😄 Pronouns: They/them
 
 ---
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hassaan-naveed&show_icons=true&hide_border=true&theme=vision-friendly-dark&langs_count=8&hide=ShaderLab,HLSL,ASP.NET,JavaScript,D,Makefile,QMake,C,Kotlin&layout=compact&custom_title=Top%20Languages)](https://github.com/anuraghazra/github-readme-stats) 
